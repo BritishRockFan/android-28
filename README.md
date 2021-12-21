@@ -20,7 +20,7 @@ Docker for Android SDK 28 with preinstalled build tools and emulator image
 
 **Usage**
 
--Already preinstalled
+- Already preinstalled
   ```bash
   $ docker run -it --rm --device /dev/kvm britishrockfan/androidsdk28_witn_androidtv:latest bash
   # check prebuilt emulator
